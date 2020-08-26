@@ -57,6 +57,7 @@
 		04B5545824F2A70300DEAAA9 = {
 			isa = PBXGroup;
 			children = (
+				041DE5AA24F6781800BD23ED /* README.md */,
 				04B5546324F2A70300DEAAA9 /* Parallax */,
 				04B5546224F2A70300DEAAA9 /* Products */,
 			);
@@ -83,7 +84,6 @@
 				04B5546F24F2A70600DEAAA9 /* LaunchScreen.storyboard */,
 				04B5547224F2A70600DEAAA9 /* Info.plist */,
 				04FF099224F4C53900343559 /* SlideView.swift */,
-				041DE5AA24F6781800BD23ED /* README.md */,
 				041DE5AD24F67C5500BD23ED /* 1.gif */,
 			);
 			path = Parallax;
